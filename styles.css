@@ -564,7 +564,7 @@ section h2 {
     background: right no-repeat url("img/section5/block5.png") var(--dark-blue-color);
     background-size: contain;
 }
-
+/*
 @media (max-width: 735px) {
     ._padding {
         padding: 0 10px;
@@ -799,4 +799,4 @@ section h2 {
     }
 }
 
-
+*/
